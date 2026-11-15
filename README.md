@@ -1,6 +1,6 @@
 # UDP Traffic Generator · UDP 网络流量发生器
 
-基于 **Python + UDP Socket + Tkinter** 开发的网络编程课程项目。程序能够按照指定的周期性波形控制 UDP 报文发送速率，并通过独立接收端验证实际报文收发情况。
+基于 **Python + UDP Socket + Tkinter** 开发的网络编程项目。程序能够按照指定的周期性波形控制 UDP 报文发送速率，并通过独立接收端验证实际报文收发情况。
 
 项目面向 **Windows 10/11**，主要使用 Python 标准库，无需额外安装第三方 Python 包。
 
