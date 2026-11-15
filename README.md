@@ -24,9 +24,8 @@ UDP-Traffic-Generator/
 ├── run_receiver.bat            # Windows 接收端启动脚本
 ├── run_tests.bat               # Windows 测试启动脚本
 ├── tests/                      # 单元测试
-├── results/                    # 运行时生成的 CSV 数据（如已保留）
+├── results/                    # 运行时生成的 CSV 数据
 ├── README.md                   # 项目介绍与使用说明
-└── README_运行和截图指南.md     # 原项目详细操作指南（如已保留）
 ```
 
 `.bat` 是 **Windows 批处理启动脚本**，用于调用对应的 `.py` 文件。实际程序逻辑主要位于三个 `.py` 文件和 `tests/` 目录中。
