@@ -94,16 +94,25 @@ $$
 
 ## 🖼️ 运行截图
 
-可以在仓库中新建 `screenshots/` 文件夹并添加真实运行截图：
+### 1. 锯齿波（Sawtooth）实验
 
-| 建议文件名 | 截图内容 |
-| --- | --- |
-| sawtooth_sender.png | 锯齿波发送端完整曲线 |
-| sawtooth_receiver.png | 锯齿波接收端统计结果 |
-| sine_sender.png | 正弦波发送端完整曲线 |
-| sine_receiver.png | 正弦波接收端统计结果 |
+**发送端运行截图**
 
-上传截图后，可取消下方 Markdown 图片语句的注释，在 GitHub README 中直接展示图片：
+![锯齿波发送端](screenshots/sawtooth_sender.png)
+
+**接收端运行截图**
+
+![锯齿波接收端](screenshots/sawtooth_receiver.png)
+
+### 2. 正弦波（Sine）实验
+
+**发送端运行截图**
+
+![正弦波发送端](screenshots/sine_sender.png)
+
+**接收端运行截图**
+
+![正弦波接收端](screenshots/sine_receiver.png)
 
 <!--
 ### 锯齿波实验
