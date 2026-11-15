@@ -98,10 +98,10 @@ $$
 
 | 建议文件名 | 截图内容 |
 | --- | --- |
-| `sawtooth_sender.png` | 锯齿波发送端完整曲线 |
-| `sawtooth_receiver.png` | 锯齿波接收端统计结果 |
-| `sine_sender.png` | 正弦波发送端完整曲线 |
-| `sine_receiver.png` | 正弦波接收端统计结果 |
+| sawtooth_sender.png | 锯齿波发送端完整曲线 |
+| sawtooth_receiver.png | 锯齿波接收端统计结果 |
+| sine_sender.png | 正弦波发送端完整曲线 |
+| sine_receiver.png | 正弦波接收端统计结果 |
 
 上传截图后，可取消下方 Markdown 图片语句的注释，在 GitHub README 中直接展示图片：
 
